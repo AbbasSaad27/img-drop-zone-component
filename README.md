@@ -1,0 +1,1 @@
+# img-drop-zone-component
